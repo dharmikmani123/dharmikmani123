@@ -1,304 +1,248 @@
-<!-- ============================ PREMIUM HERO SECTION ============================ -->
+<!-- ████████████████████████████████████████████████████████████████████████████████ -->
+<!--                    DHARMIK KOTHAMASU — GITHUB PROFILE README                   -->
+<!-- ████████████████████████████████████████████████████████████████████████████████ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:06b6d4,100:7c3aed&text=Dharmik%20Mani&fontSize=55&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=1000&lines=AI+Systems+Engineer;Full+Stack+Developer;Java+Backend+Engineer;Machine+Learning+Explorer;Building+Scalable+Digital+Experiences;Passionate+About+Modern+Software+Architecture" />
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,50:0a2a4a,100:0a66c2&height=200&section=header&text=Dharmik%20Kothamasu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SDE%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18&descColor=64b5f6&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://github.com/dharmikmani123">
-    <img src="https://komarev.com/ghpvc/?username=dharmikmani123&label=Profile+Views&color=06b6d4&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/dharmikmani123?tab=followers">
-    <img src="https://img.shields.io/github/followers/dharmikmani123?style=for-the-badge&color=7c3aed&label=Followers" />
-  </a>
-
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Scalable%20Systems-0f172a?style=for-the-badge&logo=nvidia&logoColor=06b6d4" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Dharmik Mani
-
-Role:
-  - AI Systems Engineer
-  - Full Stack Developer
-  - Java Backend Engineer
-
-Core Focus:
-  - AI/ML Applications
-  - Backend Architecture
-  - REST API Development
-  - Intelligent Automation
-  - Scalable Web Systems
-
-Currently Building:
-  - AI-powered applications
-  - Modern full-stack platforms
-  - Production-inspired software systems
-```
-
-<p align="center">
-  I design and develop scalable software systems that combine intelligent
-  automation, modern backend engineering, and clean user experiences.
-</p>
-
-<p align="center">
-  Passionate about building impactful digital products using AI, modern
-  web technologies, backend architecture, and machine learning workflows.
-</p>
-
----
-
-# ⚡ Tech Stack
-
-## 🧠 Languages & Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
----
-
-## ⚙ Backend Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
-</p>
-
----
-
-## 🚀 Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharmikmani123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=7c3aed"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikmani123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=06b6d4"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikmani123&theme=radical&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikmani123&theme=react-dark&bg_color=0d1117&hide_border=true&color=06b6d4&line=7c3aed&point=ffffff&area=true" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🌍 Climate Change News Analyzer
-
-AI-powered analysis system focused on extracting insights and trends from climate-related news datasets using machine learning workflows.
-
-### ⚡ Tech Stack
-- Python
-- Machine Learning
-- Data Analysis
-- Jupyter Notebook
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/Climate-Change-News-Analizer">
-  View Project
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full-Stack+%7C+Java+%7C+React+%7C+Node.js;Integrating+AI+into+everything+I+ship.;Open+to+SDE+%26+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-</td>
+<br/><br/>
 
-<td width="50%">
-
-## 🚗 Highway Services Platform
-
-A scalable web platform designed to improve highway travel assistance and digital service accessibility.
-
-### ⚡ Tech Stack
-- JavaScript
-- Frontend Development
-- Web Systems
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/HighwayServices">
-  View Project
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🧾 DriveDoc
-
-Digital workflow platform focused on improving document management and travel-related service experiences.
-
-### ⚡ Tech Stack
-- JavaScript
-- UI Engineering
-- Web Applications
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/DriveDoc">
-  View Project
-</a>
-
-</td>
-
-<td width="50%">
-
-## 📚 BookApplication
-
-Backend-focused application built using Spring Boot showcasing REST APIs and scalable Java backend architecture.
-
-### ⚡ Tech Stack
-- Java
-- Spring Boot
-- REST APIs
-- Backend Engineering
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/BookApplication">
-  View Project
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🛒 Ecommerce Platform
-
-Modern e-commerce web application exploring scalable storefront experiences and interactive frontend systems.
-
-### ⚡ Tech Stack
-- JavaScript
-- Frontend Systems
-- UI/UX
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/ecommerce">
-  View Project
-</a>
-
-</td>
-
-<td width="50%">
-
-## 📖 Dictionary Website
-
-Interactive dictionary web application focused on usability, responsiveness, and dynamic user interaction.
-
-### ⚡ Tech Stack
-- JavaScript
-- HTML
-- CSS
-- DOM Manipulation
-
-### 🔗 Repository
-<a href="https://github.com/dharmikmani123/DictionaryWebsite">
-  View Project
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Engineering Journey
-
-- 🚀 Building AI-powered and scalable software systems
-- ⚡ Exploring machine learning workflows and intelligent automation
-- 🧠 Focused on backend engineering and modern architecture
-- 🌐 Developing responsive full-stack applications
-- 📈 Continuously improving clean coding and developer workflows
-- 🤝 Open to collaborations, internships, and innovative engineering opportunities
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
+<!-- SOCIAL BADGES -->
 <a href="https://github.com/dharmikmani123">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/kothamasu-dharmik-sri-venkata-sai-mani-53150528a/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9"/>
 </a>
-
 <a href="https://www.instagram.com/dharmik_9928/">
   <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=f97316"/>
 </a>
-
 <a href="https://dharmik-mani-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox-browser&logoColor=a855f7"/>
 </a>
-
 <a href="mailto:dharmikmani123@gmail.com">
   <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f97316"/>
 </a>
 
-</p>
+<br/><br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=dharmikmani123&style=for-the-badge&color=0a66c2&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dharmikmani123?style=for-the-badge&color=0f172a&labelColor=0f172a&label=FOLLOWERS&logo=github&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+
+### `// who am I`
+
+```js
+const dharmik = {
+  role      : "Full-Stack Developer → AI Engineer",
+  university: "Sathyabama Institute of Science & Technology",
+  degree    : "B.E. Computer Science",
+  location  : "Chennai, India 🇮🇳",
+  status    : "🟢 Open to Work — SDE & AI Engineer roles",
+
+  stack     : ["Java", "React.js", "Node.js",
+               "Express.js", "MongoDB", "SQL"],
+
+  currentFocus : "Integrating ML models into full-stack apps",
+  superpower   : "I ship — I don't let perfect block done.",
+  contact      : "dharmikmani123@gmail.com",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-# 💡 Philosophy
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <i>
-    "Engineering intelligent systems that create meaningful digital experiences."
-  </i>
-</p>
+<div align="center">
+
+### `// tech stack`
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-0f172a?style=for-the-badge&logo=react&logoColor=00e5ff)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=3b82f6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e)
+![Express](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22c55e)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+
+**AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f172a?style=for-the-badge&logo=huggingface&logoColor=facc15)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=f97316)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0ea5e9)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=f97316)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20For-Modern%20Software%20Engineering-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" />
-</p>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `// by the numbers`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmikmani123&show_icons=true&theme=github_dark&hide_border=true&bg_color=060d1a&title_color=0a66c2&icon_color=00e5ff&text_color=94a3b8&ring_color=0a66c2" alt="Dharmik's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dharmikmani123&theme=github-dark-blue&hide_border=true&background=060d1a&ring=0A66C2&fire=f97316&currStreakLabel=0ea5e9&sideNums=94a3b8&currStreakNum=ffffff&dates=546e8a&sideLabels=546e8a" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikmani123&layout=compact&theme=github_dark&hide_border=true&bg_color=060d1a&title_color=0a66c2&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikmani123&bg_color=060d1a&color=0a66c2&line=0a66c2&point=00e5ff&area=true&area_color=0a2a4a&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `// what I've shipped`
+
+<div align="center">
+
+| 🚀 Project | 🛠 Stack | 📌 What it does |
+|---|---|---|
+| **Full-Stack Task Manager** | React · Node.js · MongoDB · JWT | End-to-end CRUD app with real-time WebSocket notifications and authenticated sessions |
+| **AI Sentiment Dashboard** | React · Flask · HuggingFace · REST | NLP model integrated into a live web dashboard — classifies text in < 220ms |
+| **Portfolio Website** | React · Tailwind · Vercel | [dharmik-mani-portfolio.vercel.app](https://dharmik-mani-portfolio.vercel.app/) — my work, live |
+| **[Your Next Project]** | *Coming soon* | Currently building something worth pinning here |
+
+</div>
+
+> 📂 **All projects are pinned below** — check the repos for full code, architecture decisions, and README walkthroughs.
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY LEARNING                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `// currently levelling up`
+
+```
+▸ System Design fundamentals (HLD + LLD)
+▸ LangChain & LLM app development
+▸ AWS Cloud Practitioner certification
+▸ DSA — consistent daily practice on LeetCode
+▸ Exploring AI agents and agentic workflows
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    LEETCODE / DSA                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `// DSA grind`
+
+<img src="https://leetcard.jacoblin.cool/dharmikmani123?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" width="500"/>
+
+> *Replace `dharmikmani123` with your actual LeetCode username above*
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB TROPHIES                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `// achievements`
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharmikmani123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  OPEN TO WORK BANNER                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `// let's connect`
+
+> 🟢 **Actively looking for SDE & AI Engineer roles — full-time, hybrid or remote**
+>
+> I respond to every recruiter message within 24 hours.
+> If you're building something interesting, let's talk.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kothamasu-dharmik-sri-venkata-sai-mani-53150528a/">
+  <img src="https://img.shields.io/badge/Hit%20me%20up%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:dharmikmani123@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://dharmik-mani-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/See%20My%20Portfolio-a855f7?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:060d1a&height=100&section=footer"/>
+
+<div align="center">
+  <sub>Crafted with precision · Dharmik Kothamasu · 2025</sub>
+</div>
