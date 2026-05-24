@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,50:0a2a4a,100:0a66c2&height=200&section=header&text=Dharmik%20Kothamasu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SDE%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18&descColor=64b5f6&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,50:0a2a4a,100:0a66c2&height=200&section=header&text=Dharmik%20Kothamasu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SDE%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=64b5f6&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
