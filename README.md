@@ -187,8 +187,11 @@ const dharmik = {
 
 ### `// DSA grind`
 
-<img src="https://leetcard.jacoblin.cool/tnzkBEPL?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8" alt="LeetCode Stats" width="500"/>
-
+<img 
+  src="https://leetcard.jacoblin.cool/tXiU9ifXtZ?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8" 
+  alt="LeetCode Stats" 
+  width="500"
+/>
 > *Replace `dharmikmani123` with your actual LeetCode username above*
 
 </div>
