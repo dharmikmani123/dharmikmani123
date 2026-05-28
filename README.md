@@ -192,8 +192,8 @@ const dharmik = {
   alt="LeetCode Stats" 
   width="500"
 />
-> *Replace `dharmikmani123` with your actual LeetCode username above*
 
+<h2 align="center">Kothamasu Dharmik Sri Venkata Sai Mani</h2>
 </div>
 
 ---
